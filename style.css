@@ -1,14 +1,11 @@
-.error {
-    color: #dc3545;
-}
-.error-container {
-    min-height: 40px;
-}
-.card .btn-close {
-    position: absolute;
+.weather-card .weather-card-delete-form {
     top: 8px;
     right: 8px;
-    z-index: 1;
+}
+
+.weather-card img {
+    max-height: 150px;
+    object-fit: contain;
 }
 
 .weather-logo {
