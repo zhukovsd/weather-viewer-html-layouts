@@ -1,3 +1,11 @@
+body {
+    min-height: 100vh;
+}
+
+section#page-content {
+    min-height: calc(100vh - 164px);
+}
+
 .weather-card .weather-card-delete-form {
     top: 8px;
     right: 8px;
