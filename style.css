@@ -1,0 +1,21 @@
+.error {
+    color: #dc3545;
+}
+.error-container {
+    min-height: 40px;
+}
+.card .btn-close {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    z-index: 1;
+}
+
+.weather-logo {
+    background-image: url("images/weather-app.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    min-height: 250px;
+}
